@@ -1,6 +1,6 @@
-# 🍕 Pizza Artesanal Coração
+# 🍕 Pizza Artesanal 
 
-![Pizza Artesanal Coração](https://github.com/seuusuario/seurepositorio/blob/main/images/pizza-coracao.png)
+![Pizza Artesanal Coração](https://github.com/marcelopastorini-dev/IA-de-venda-heineken/blob/main/Copilot_20260522_123503.png)
 
 ## 💕 Especial Dia dos Namorados
 
